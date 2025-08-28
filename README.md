@@ -20,4 +20,3 @@
   - ### DBMS : PostgreSQL
   - ### 개발 언어 :Java, JavaScript(Svelte, Node.js)
   - ### 프레임워크 : Spring Boot, SvelteKit
-![Uploading image.png…]()
